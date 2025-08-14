@@ -7,7 +7,7 @@ public class ModItem{
     public static Item diamond;
     
     public static void load(){
-        diamond = new Item("diamond", Color.valueOf("6beeff")){{
+        diamond = new Item("diamond", Color.valueOf("87CEEB")){{
 
         }};
     }
